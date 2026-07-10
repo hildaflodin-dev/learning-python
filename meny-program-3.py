@@ -4,7 +4,7 @@ ALTERNATIV_3 = "3. Avsluta"
 
 #MENY: Visar alternativen
 def visa_meny():
-    print("\nVänligen välj ett alternativ: ––––––––––––––––––––––––––––––––––––––––––\n")
+    print("\nVänligen välj ett alternativ: ---------------------------------------\n")
     print(ALTERNATIV_1)
     print(ALTERNATIV_2)
     print(ALTERNATIV_3)
